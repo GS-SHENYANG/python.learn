@@ -31,3 +31,7 @@ print(full_name.title())
 print("Languages:\nPython\nC\nJava")
 print("Languages:\tPython\tC\tJava")
 print("Languages:\n\t\tPython\n\t\tC\n\t\tJava")
+
+
+#python 之禅
+import this
